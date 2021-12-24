@@ -39,10 +39,6 @@ func executeHandler(event *types.Event) error {
 		return nil
 	}
 
-	f, err := os.OpenFile("/tmp/promout.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	if err != nil {
-		return err
-	}
-	metric.Points(event.Metrics.Points).ToProm(f)
+	metric.Points(event.Metrics.Points).ToProm(os.Stdout)
 	return nil
 }
