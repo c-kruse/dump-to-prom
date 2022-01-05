@@ -303,6 +303,10 @@ github.com/sensu/sensu-plugin-sdk v0.14.2-0.20211222005821-e1ab55088d38 h1:WfFEs
 github.com/sensu/sensu-plugin-sdk v0.14.2-0.20211222005821-e1ab55088d38/go.mod h1:P3o4twxR0XDBM/2P5xzXd08JenHTJarniGpeaAn/8PE=
 github.com/sensu/sensu-plugin-sdk v0.14.2-0.20211224004552-7a82fdb0b227 h1:/ZvknM2XMpgUxB5KtMxaEe0y/32x3KSkh3abojZ1cak=
 github.com/sensu/sensu-plugin-sdk v0.14.2-0.20211224004552-7a82fdb0b227/go.mod h1:P3o4twxR0XDBM/2P5xzXd08JenHTJarniGpeaAn/8PE=
+github.com/sensu/sensu-plugin-sdk v0.14.2-0.20220105003705-de4fe008febd h1:BdhVJ/TAQcU7ArQ/Xw7sbiLF8ozFMarE+LMn4FhQOAU=
+github.com/sensu/sensu-plugin-sdk v0.14.2-0.20220105003705-de4fe008febd/go.mod h1:P3o4twxR0XDBM/2P5xzXd08JenHTJarniGpeaAn/8PE=
+github.com/sensu/sensu-plugin-sdk v0.14.2-0.20220105010036-9d542cdb8091 h1:InuVPA4SrPRa05E5qPriTARQkYePoZGjWKVT2avj7Rw=
+github.com/sensu/sensu-plugin-sdk v0.14.2-0.20220105010036-9d542cdb8091/go.mod h1:P3o4twxR0XDBM/2P5xzXd08JenHTJarniGpeaAn/8PE=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
